@@ -1,0 +1,17 @@
+Nome: Willian Alves
+Sobrenome: Fonseca
+Idade: 27 anos
+
+Nome da mãe: Olinda Nadir da fonseca
+Nome do pai: João Alves dos Santos
+
+
+Nascimento: Contagem/MG
+
+
+Residencia: Rua Engenho Seco 421 - Betim Industrial/Betim MG
+
+
+Teste de arquivo editando pelo editor VI do linux o VIM
+
+
